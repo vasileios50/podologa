@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+    color: grey;
+    font-family: "comfortaa";
+    font-size: 15px;
+    text-decoration: none;
+}
+span{
+    color: rgb(255, 138, 0);
+}
+.card{
+    -webkit-box-shadow: 5px 5px 5px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #123f00;
+}
